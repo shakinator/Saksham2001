@@ -1,9 +1,7 @@
 # Saksham2001
 ### सुप्रभात | Good day | Bonjour | Guten Tag  | こんにちは 👋
 
-<img src="https://github.com/Shaswat2001/Shaswat2001.github.io/blob/master/authors/admin/Shaswat_hindi.png" alt="" width="75" align="left">
-
-Hi, I'm **Shaswat Garg**, a mechanial undergraduate from Delhi Technological University. I am broadly interested in robotics, particularly continuum robots, Motion Planning, Deep Learning, Reinforcement Learning and Evolutionary Computation Algorithms.
+Hi, I'm **Saksham Garg**, an Information and Technology undergraduate from Galgotias College of Engineering and Technology. I am broadly interested in AI and Web development, particularly  Deep Learning, Reinforcement Learning and Full Stack Developement.
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shakinator&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
