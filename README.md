@@ -5,7 +5,7 @@
 
 Hi, I'm **Shaswat Garg**, a mechanial undergraduate from Delhi Technological University. I am broadly interested in robotics, particularly continuum robots, Motion Planning, Deep Learning, Reinforcement Learning and Evolutionary Computation Algorithms.
 
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shakinator&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 - (enjoy) working on challenging but cool :robot: robotics and motion planning projects. 
 
